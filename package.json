@@ -1,6 +1,7 @@
 {
-  "name": "tg-tictactoe-vercel",
+  "name": "tg-tictactoe",
   "version": "1.0.0",
+  "main": "api/index.js",
   "dependencies": {
     "express": "^4.18.2",
     "node-telegram-bot-api": "^0.64.0",
