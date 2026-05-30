@@ -1,0 +1,10 @@
+{
+  "name": "tg-tictactoe-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.64.0",
+    "pg": "^8.11.3",
+    "cors": "^2.8.5"
+  }
+}
